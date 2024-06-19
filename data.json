@@ -1,0 +1,32 @@
+{
+    "app_id": 1,
+    "point_sn": "myb",
+    "goods_id": "抓包获取",
+    "exchange_num": 1,
+    "uid": "抓包获取",
+    "region": "抓包获取",
+    "game_biz": "抓包获取 游戏名称类似于",
+    "address_id": 抓包获取 格式为int 不用加引号,
+    "target_time": "1970-01-01T00:00:00",
+    "headers": {
+        "User-Agent": "抓包获取",
+        "Accept": "application/json, text/plain, */*",
+        "x-rpc-device_model": "抓包获取",
+        "Referer": "https://webstatic.miyoushe.com/",
+        "x-rpc-device_name": "抓包获取",
+        "Origin": "https://webstatic.miyoushe.com",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Site": "same-site",
+        "x-rpc-device_fp": "抓包获取",
+        "x-rpc-channel": "抓包获取",
+        "Accept-Language": "zh-CN,zh-Hans;q=0.9",
+        "x-rpc-app_version": "抓包获取",
+        "x-rpc-client_type": "1",
+        "x-rpc-verify_key": "抓包获取",
+        "x-rpc-device_id": "抓包获取",
+        "Content-Type": "application/json; charset=utf-8",
+        "x-rpc-sys_version": "17.3",
+        "Sec-Fetch-Mode": "cors",
+        "Cookie": "抓包获取 有时效性 请自行抓取 "
+    }
+}
